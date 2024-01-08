@@ -1,0 +1,34 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    transform: scale(1.1);
+}
+.contain-button:hover {
+    transform: scale(1.1);
+}
+.contain-button2:hover {
+    transform: scale(1.1);
+}
+@media (max-width: 992px) {
+    .menu-link {
+        font-size: 18px;
+    }
+
+}
+
+@media (max-width: 1699px) {
+    .number {
+        display: block;
+    }
+}
+@media (min-width: 320px) {
+    
+}
+@media (max-width: 1200px) {
+    .subtitle {
+        font-size: 30px;
+        font-weight: bold;
+    }
+}

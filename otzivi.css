@@ -1,0 +1,61 @@
+.subtitle {
+    width: 85%;
+    margin: 0 auto;
+}
+.header2 {
+    display: flex;
+    justify-content: space-between;
+}
+.catt-img {
+    display: inline-block;
+}
+.video {
+    display: inline-block;
+    position: relative;
+    bottom: 3em;
+}
+.dogg-img {
+    display: inline-block;
+}
+.iframe {
+    border-radius: 30px;
+}
+.main-content5 {
+    display: flex;
+    justify-content: space-between;
+}
+.block {
+    width: 30%;
+    height: 200px;
+    border-radius: 20px;
+    background: #63BDDA;
+    background-repeat: no-repeat;
+    border: #63BDDA;
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.subblock {
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+    padding-left: 25px;
+}
+.stars {
+    display: inline-block;
+    position: relative;
+    bottom: 15px;
+    
+}
+.footer-of-block {
+    text-align: center;
+    height: 130px;
+    margin-top: 10px;
+    
+}
+.footer-of-block2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}

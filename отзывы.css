@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    background: linear-gradient(103.5deg, #CCFDE9 -13.73%, #63BDDA 113.01%);
+    width: 70%;
+    margin: 0 auto;
+}
+* {
+    margin: 0;
+    padding: 0;  
+}
